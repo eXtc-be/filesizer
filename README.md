@@ -1,2 +1,3 @@
 # filesizer
-a tool to list files, largest first
+
+a tool to list files by size
